@@ -1,0 +1,30 @@
+{
+  "name": "amazeUI-demo",
+  "version": "1.0.0",
+  "description": "基于amazeUI的系统界面",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hssgonghui/amazeUI-demo.git"
+  },
+  "keywords": [],
+  "author": "jinyf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hssgonghui/amazeUI-demo/issues"
+  },
+  "homepage": "https://github.com/hssgonghui/amazeUI-demo#readme",
+  "devDependencies": {
+    "css-loader": "^0.28.0",
+    "file-loader": "^0.10.1",
+    "jquery": "^3.2.1",
+    "jsx-loader": "^0.13.2",
+    "style-loader": "^0.16.1",
+    "url-loader": "^0.5.8",
+    "webpack": "^2.3.2",
+    "webpack-dev-server": "^2.4.2"
+  }
+}
